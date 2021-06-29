@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="devops test check" />
+  <HelloWorld msg="devops test chec fix" />
 </template>
 
 <script>
